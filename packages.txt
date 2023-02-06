@@ -1,0 +1,100 @@
+ii  brainy-php5                          5.6.40-30.brainyV3                          amd64        PHP is an HTML-embedded scripting language. PHP attempts to make it
+ii  brainy-php5-enchant                  5.6.40-30.brainyV3                          amd64        The php-enchant package contains a dynamic shared object that will add
+ii  brainy-php5-fpm                      5.6.40-30.brainyV3                          amd64        PHP-FPM (FastCGI Process Manager) is an alternative PHP FastCGI
+ii  brainy-php5-gd                       5.6.40-30.brainyV3                          amd64        The php-gd package contains a dynamic shared object that will add
+ii  brainy-php5-imagick                  3.4.3-10                                    amd64        Imagick is a native php extension to create and modify images
+ii  brainy-php5-imap                     5.6.40-30.brainyV3                          amd64        The php-imap module will add IMAP (Internet Message Access Protocol)
+ii  brainy-php5-intl                     5.6.40-30.brainyV3                          amd64        The php-intl package contains a dynamic shared object that will add
+ii  brainy-php5-json                     5.6.40-30.brainyV3                          amd64        The php-json package contains a dynamic shared object that will add
+ii  brainy-php5-mbstring                 5.6.40-30.brainyV3                          amd64        The php-mbstring package contains a dynamic shared object that will add
+ii  brainy-php5-mcrypt                   5.6.40-30.brainyV3                          amd64        The php-mcrypt package contains a dynamic shared object that will add
+ii  brainy-php5-modules-base             5.6.40-30.brainyV3                          amd64        The php-recode package contains a dynamic shared object that will add
+ii  brainy-php5-mysql                    5.6.40-30.brainyV3                          amd64        The php-mysqlnd package contains a dynamic shared object that will add
+ii  brainy-php5-pdo                      5.6.40-30.brainyV3                          amd64        The php-pdo package contains a dynamic shared object that will add
+ii  brainy-php5-pgsql                    5.6.40-30.brainyV3                          amd64        The php-pgsql package add PostgreSQL database support to PHP.
+ii  brainy-php5-ssh2                     0.13-4                                      amd64        Bindings to the libssh2 library which provide access to resources
+ii  brainy-php5-xml                      5.6.40-30.brainyV3                          amd64        The php-xml package contains dynamic shared objects which add support
+ii  brainy-php5-zendopcache              5.6.40-30.brainyV3                          amd64        The Zend OPcache provides faster PHP execution through opcode caching and
+ii  brainy-php5-zip                      5.6.40-30.brainyV3                          amd64        The php-zip package contains a dynamic shared object that will add
+ii  libapache2-mod-php8.1                8.1.14-2+ubuntu20.04.1+deb.sury.org+1       amd64        server-side, HTML-embedded scripting language (Apache 2 module)
+ii  libphp81w-24                         8.1.9-1.1                                   amd64        The lib module PHP for Apache
+ii  mod24-suphp                          0.7.2-1                                     amd64        suPHP is an apache module for executing PHP scripts with the permissions of
+ii  php-common                           2:93+ubuntu20.04.1+deb.sury.org+2           all          Common files for PHP packages
+ii  php-xml                              2:8.2+93+ubuntu20.04.1+deb.sury.org+2       all          DOM, SimpleXML, WDDX, XML, and XSL module for PHP [default]
+ii  php8.1                               8.1.14-2+ubuntu20.04.1+deb.sury.org+1       all          server-side, HTML-embedded scripting language (metapackage)
+ii  php8.1-cli                           8.1.14-2+ubuntu20.04.1+deb.sury.org+1       amd64        command-line interpreter for the PHP scripting language
+ii  php8.1-common                        8.1.14-2+ubuntu20.04.1+deb.sury.org+1       amd64        documentation, examples and common module for PHP
+ii  php8.1-dev                           8.1.14-2+ubuntu20.04.1+deb.sury.org+1       amd64        Files for PHP8.1 module development
+ii  php8.1-opcache                       8.1.14-2+ubuntu20.04.1+deb.sury.org+1       amd64        Zend OpCache module for PHP
+ii  php8.1-readline                      8.1.14-2+ubuntu20.04.1+deb.sury.org+1       amd64        readline module for PHP
+ii  php8.1-xml                           8.1.14-2+ubuntu20.04.1+deb.sury.org+1       amd64        DOM, SimpleXML, XML, and XSL module for PHP
+ii  php8.2-common                        8.2.1-2+ubuntu20.04.1+deb.sury.org+1        amd64        documentation, examples and common module for PHP
+ii  php8.2-xml                           8.2.1-2+ubuntu20.04.1+deb.sury.org+1        amd64        DOM, SimpleXML, XML, and XSL module for PHP
+ii  php80w-brotli                        0.13.1-1                                    amd64        This extension allows Brotli compression.
+ii  php80w-igbinary                      3.2.6-1.brainy                              amd64        Igbinary is a drop in replacement for the standard PHP serializer.
+ii  php80w-igbinary-dev                  3.2.6-1.brainy                              amd64        These are the files needed to compile programs using Igbinary
+ii  php80w-memcache                      8.0-1.brainy                                amd64        Memcached is a caching daemon designed especially for
+ii  php80w-msgpack                       2.1.2-1.brainy                              amd64        This extension provide API for communicating with MessagePack serialization.
+ii  php80w-msgpack-dev                   2.1.2-1.brainy                              amd64        These are the files needed to compile programs using MessagePack serializer.
+ii  php80w-sqlsrv                        5.10.0-1                                    amd64        Bindings to the libssh2 library which provide access to resources
+ii  php80w-yaml                          2.2.1-1.brainy                              amd64        Support for YAML 1.1 (YAML Ain't Markup Language) serialization using the
+ii  php81w                               8.1.9-1.1                                   amd64        PHP is an HTML-embedded scripting language. PHP attempts to make it
+ii  php81w-apcu                          5.1.21-1.5.brainy                           amd64        APCu is userland caching: APC stripped of opcode caching.
+ii  php81w-apcu-dev                      5.1.21-1.5.brainy                           amd64        These are the files needed to compile programs using APCu.
+ii  php81w-bcmath                        8.1.9-1.1                                   amd64        The php-bcmath package contains a dynamic shared object that will add
+ii  php81w-brotli                        0.13.1-1                                    amd64        This extension allows Brotli compression.
+ii  php81w-cli                           8.1.9-1.1                                   amd64        The php-cli package contains the command-line interface
+ii  php81w-common                        8.1.9-1.1                                   amd64        The php-common package contains files used by both the php
+ii  php81w-dba                           8.1.9-1.1                                   amd64        The php-dba package contains a dynamic shared object that will add
+ii  php81w-dbg                           8.1.9-1.1                                   amd64        The php-dbg package contains the interactive PHP debugger.
+ii  php81w-dev                           8.1.9-1.1                                   amd64        The php-devel package contains the files needed for building PHP
+ii  php81w-embedded                      8.1.9-1.1                                   amd64        The php-embedded package contains a library which can be embedded
+ii  php81w-enchant                       8.1.9-1.1                                   amd64        The php-enchant package contains a dynamic shared object that will add
+ii  php81w-ffi                           8.1.9-1.1                                   amd64        FFI is one of the features that made Python and LuaJIT very useful for fast
+ii  php81w-fpm                           8.1.9-1.1                                   amd64        PHP-FPM (FastCGI Process Manager) is an alternative PHP FastCGI
+ii  php81w-gd                            8.1.9-1.1                                   amd64        The php-gd package contains a dynamic shared object that will add
+ii  php81w-geoip                         1.1.1-1.5.brainy                            amd64        This PHP extension allows you to find the location of an IP address
+ii  php81w-gmp                           8.1.9-1.1                                   amd64        These functions allow you to work with arbitrary-length integers
+ii  php81w-igbinary                      3.2.6-1.5.brainy                            amd64        Igbinary is a drop in replacement for the standard PHP serializer.
+ii  php81w-igbinary-dev                  3.2.6-1.5.brainy                            amd64        These are the files needed to compile programs using Igbinary
+ii  php81w-imagick                       3.7.0-1.brainy                              amd64        Imagick is a native php extension to create and modify images
+ii  php81w-imagick-dev                   3.7.0-1.brainy                              amd64        These are the files needed to compile programs using imagick extension.
+ii  php81w-imap                          8.1.9-1.1                                   amd64        The php-imap module will add IMAP (Internet Message Access Protocol)
+ii  php81w-interbase                     8.1.9-1.1                                   amd64        The php-interbase package contains a dynamic shared object that will add
+ii  php81w-intl                          8.1.9-1.1                                   amd64        The php-intl package contains a dynamic shared object that will add
+ii  php81w-ioncubeloader                 12.0.1-1                                    amd64        PHP php81w ionCube Loader
+ii  php81w-ldap                          8.1.9-1.1                                   amd64        The php-ldap adds Lightweight Directory Access Protocol (LDAP)
+ii  php81w-litespeed                     8.1.9-1.1                                   amd64        The php-litespeed package provides the %{_bindir}/lsphp command
+ii  php81w-mailparse                     3.1.2-1.5                                   amd64        Mailparse is an extension for parsing and working with email messages.
+ii  php81w-mbstring                      8.1.9-1.1                                   amd64        The php-mbstring package contains a dynamic shared object that will add
+ii  php81w-mcrypt                        1.0.4-1.5.brainy                            amd64        ncurses (new curses) is a free software emulation of curses in
+ii  php81w-memcache                      8.0-1.5.brainy                              amd64        Memcached is a caching daemon designed especially for
+ii  php81w-memcached                     3.1.5-1.5.brainy                            amd64        Memcached is a caching daemon designed especially for
+ii  php81w-mhash                         8.1.9-1.1                                   amd64        The php-mhash package contains a dynamic shared object that will add
+ii  php81w-msgpack                       2.1.2-1.5.brainy                            amd64        This extension provide API for communicating with MessagePack serialization.
+ii  php81w-msgpack-dev                   2.1.2-1.5.brainy                            amd64        These are the files needed to compile programs using MessagePack serializer.
+ii  php81w-mssql                         8.1.9-1.1                                   amd64        The php-mssql package contains a dynamic shared object that will
+ii  php81w-mysql                         8.1.9-1.1                                   amd64        The php-mysqlnd package contains a dynamic shared object that will add
+ii  php81w-oci8                          8.1.9-1.1                                   amd64        The php-oci8 packages provides the OCI8 extension version %{oci8ver}
+ii  php81w-odbc                          8.1.9-1.1                                   amd64        The php-odbc package contains a dynamic shared object that will add
+ii  php81w-pdo                           8.1.9-1.1                                   amd64        The php-pdo package contains a dynamic shared object that will add
+ii  php81w-pear                          1.10.13-1.1.brainy                          all          PEAR is a framework and distribution system for reusable PHP
+ii  php81w-pgsql                         8.1.9-1.1                                   amd64        The php-pgsql package add PostgreSQL database support to PHP.
+ii  php81w-process                       8.1.9-1.1                                   amd64        The php-process package contains dynamic shared objects which add
+ii  php81w-pspell                        8.1.9-1.1                                   amd64        The php-pspell package contains a dynamic shared object that will add
+ii  php81w-psr                           1.1.0-1.5.brainy                            amd64        This extension provides the accepted PSR interfaces,
+ii  php81w-psr-dev                       1.1.0-1.5.brainy                            amd64        These are the files needed to compile programs using php81w-psr.
+ii  php81w-snmp                          8.1.9-1.1                                   amd64        The php-snmp package contains a dynamic shared object that will add
+ii  php81w-soap                          8.1.9-1.1                                   amd64        The php-soap package contains a dynamic shared object that will add
+ii  php81w-sodium                        8.1.9-1.1                                   amd64        The php-sodium package provides a simple,
+ii  php81w-sqlsrv                        5.10.0-1                                    amd64        Bindings to the libssh2 library which provide access to resources
+ii  php81w-ssh2                          1.3-1.5                                     amd64        Bindings to the libssh2 library which provide access to resources
+ii  php81w-tidy                          8.1.9-1.1                                   amd64        The php-tidy package contains a dynamic shared object that will add
+ii  php81w-uploadprogress                2.0.2-1.5.brainy                            amd64        An extension to track progress of a file upload
+ii  php81w-xml                           8.1.9-1.1                                   amd64        The php-xml package contains dynamic shared objects which add support
+ii  php81w-xmlrpc                        20200602-4                                  amd64        These functions can be used to write XML-RPC servers and clients.
+ii  php81w-yaml                          2.2.2-1.brainy                              amd64        Support for YAML 1.1 (YAML Ain't Markup Language) serialization using the
+ii  php81w-zendopcache                   8.1.9-1.1                                   amd64        The Zend OPcache provides faster PHP execution through opcode caching and
+ii  php81w-zip                           8.1.9-1.1                                   amd64        The php-zip package contains a dynamic shared object that will add
+ii  php81w-zts                           8.1.9-1.1                                   amd64        The php-zts package contains a dynamic shared object that will add
+ii  pkg-php-tools                        1.38                                        all          various packaging tools and scripts for PHP packages
